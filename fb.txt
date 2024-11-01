@@ -1,0 +1,14 @@
+vless://FREE-VLESS-BMGK-XYZ@investor.fb.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@go2.facebookinc.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@162.159.130.11:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@162.159.129.11:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@opensource.fb.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@graph.facobook.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@status.fb.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
