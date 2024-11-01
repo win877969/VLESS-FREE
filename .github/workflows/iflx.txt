@@ -1,0 +1,8 @@
+vless://FREE-VLESS-BMGK-XYZ@xvp.bmkg.xyz:443?encryption=none&security=tls&sni=vplay.iflix.com&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@xvp.bmkg.xyz:443?encryption=none&security=tls&sni=access.iflix.com&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@xvp.bmkg.xyz:443?encryption=none&security=tls&sni=live.iflix.com&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@xvp.bmkg.xyz:443?encryption=none&security=tls&sni=access.iflix.com&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+

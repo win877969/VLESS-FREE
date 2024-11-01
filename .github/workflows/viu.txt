@@ -1,0 +1,10 @@
+vless://FREE-VLESS-BMGK-XYZ@zaintest.vuclip.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@104.18.38.43:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@172.64.149.213:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@gamevoucher.viu.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
+vless://FREE-VLESS-BMGK-XYZ@Dmg.viu.com:443?encryption=none&security=tls&sni=xvp.bmkg.xyz&fp=randomized&type=ws&host=xvp.bmkg.xyz&path=%2Fvl%3D38.180.165.29%3A443#Leaseweb+Deutschland+GmbH+(DE)
+
